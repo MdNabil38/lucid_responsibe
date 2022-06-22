@@ -1,0 +1,534 @@
+@media (max-width:1440px){
+    .phone {
+        position: absolute;
+        bottom: 0px;
+        right: 5%;
+    }
+    .form {
+        top: 75%;
+        width: 65%;
+    }
+}
+@media (max-width:1400px){
+
+}
+@media (max-width:1200px){
+
+}
+@media (max-width:1199px){
+    .button .btn_views {
+        font-size: 15px;
+        margin-bottom: 0px;
+        padding: 10px 14px;
+    }
+    .button .btn_downloads {
+        font-size: 15px;
+        padding: 10px 14px;
+    }
+
+}
+@media (max-width:1024px){
+    .phone,
+    .col_none {
+        width: 45%;
+        right: 20px;
+    }
+    .lg_phone {
+        display: none;
+    }
+    .height h5 {
+        font-size: 15px;
+    }
+    .height h1 {
+        font-size: 31px;
+    }
+    .height p {
+        font-size: 15px;
+    }
+    .height .btn_download {
+        padding: 8px 20px;
+        font-size: 15px;
+    }
+    .height .btn_features {
+        font-size: 15px;
+        padding: 8px 20px;
+        margin-left: 5px;
+    }
+    .button .btn_views {
+        font-size: 15px;
+        margin-bottom: 0px;
+        padding: 10px 14px;
+    }
+    .button .btn_downloads {
+        font-size: 15px;
+        padding: 10px 14px;
+    }
+    .form {
+        top: 78%;
+        width: 75%;
+    }
+}
+@media (max-width:991px){
+    .nav-item {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .phone,
+    .col_none {
+        width: 45%;
+        right: 20px;
+    }
+    .lg_phone {
+        display: none;
+    }
+    .height h5 {
+        font-size: 15px;
+    }
+    .height h1 {
+        font-size: 31px;
+    }
+    .height p {
+        font-size: 15px;
+    }
+    .height .btn_download {
+        padding: 8px 20px;
+        font-size: 15px;
+    }
+    .height .btn_features {
+        font-size: 15px;
+        padding: 8px 20px;
+        margin-left: 5px;
+    }
+    .feature_div {
+        width: 50%;
+        margin-bottom: 15px;
+    }
+    .device_content h4 {
+        font-size: 15px;
+    }
+    .device_content h1 {
+        font-size: 25px;
+    }
+    .device-content-icon p {
+        font-size: 15px;
+    }
+    .costomize_content h4 {
+        font-size: 15px;
+    }
+    .costomize_content h1 {
+        font-size: 25px;
+    }
+    .coustomize_pragrap {
+        font-size: 15px;
+    }
+    .testimonials_client {
+        width: 86%;
+    }
+    .button h1 {
+        font-size: 30px;
+    }
+    .button .btn_views {
+        font-size: 15px;
+        margin-bottom: 10px;
+        padding: 10px 14px;
+    }
+    .button .btn_downloads {
+        font-size: 15px;
+        padding: 10px 14px;
+    }
+    .main_price {
+        width: 50%;
+        margin-top: 15px;
+    }
+    .form {
+        padding: 20px;
+        top: 90%;
+        width: 80%;
+        border-radius: 10px;
+    }
+    .icon_control ul {
+        width: 35%;
+        font-size: 20px;
+    }
+}
+@media (max-width:768px) {
+    .phone,
+    .col_none {
+
+        width: 50%;
+        right: 0px;
+    }
+    .contact_icon {
+        font-size: 20px;
+    }
+
+    .contact_content h3 {
+        font-size: 15px;
+    }
+}
+@media (max-width:767px){
+    .button .btn_views {
+        margin-bottom: 0px;
+    }
+}
+@media (max-width:575px) {
+    .phone,
+    .col_none {
+        display: none;
+    }
+
+    .lg_phone {
+        display: inherit;
+        width: 45%;
+        margin: auto;
+    }
+
+    .height {
+        text-align: center;
+    }
+
+    .height h1 {
+        font-size: 42px;
+    }
+
+    .height p {
+        font-size: 18px;
+    }
+
+    .feature_section {
+        margin-top: -45px;
+    }
+
+    .icon {
+        height: 70px;
+        width: 70px;
+        font-size: 30px;
+    }
+
+    .feature_section h4 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .feature_div {
+        background-color: #ffffff;
+        width: 80%;
+        margin: auto;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px 0px #888888;
+    }
+
+    .device_section img {
+        width: 60%;
+    }
+
+    .device_section:hover .device_content span::before {
+        width: 39px;
+    }
+
+    .device_section:hover .device_content span::after {
+        width: 38px;
+    }
+
+    .coustomize_section img {
+        width: 70%;
+    }
+
+    .coustomize_section:hover .costomize_content span::before {
+        width: 42px;
+    }
+
+    .coustomize_section:hover .costomize_content span::after {
+        width: 42px;
+    }
+
+    .button {
+        text-align: center !important;
+    }
+    .button .btn_views {
+        margin-bottom: 0px;
+    }
+    .button_section {
+        text-align: center;
+    }
+
+    .testimonials_client {
+        width: 53%;
+    }
+
+    .price {
+        margin-bottom: 15px;
+    }
+    .main_price {
+        width: 100%;
+    }
+    .contact_icon {
+        font-size: 20px;
+    }
+
+    .contact_content h3 {
+        font-size: 15px;
+    }
+    .icon_control ul li {
+        margin-left: -28px;
+    }
+
+    .icon_control p {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:425px) {
+    .height {
+        min-height: 65vh;
+    }
+
+    .lg_phone {
+        display: none;
+    }
+
+    .height h1 {
+        font-size: 35px;
+    }
+
+    .height p {
+        font-size: 15px;
+    }
+
+    .feature_section {
+        margin-top: -45px;
+    }
+
+    .feature_section {
+        margin-top: -45px;
+    }
+
+    .testimonials_client {
+        width: 72%;
+    }
+
+    .button .btn_views {
+        font-size: 15px;
+        margin-bottom: 0px !important;
+    }
+
+    .button .btn_downloads {
+        font-size: 15px;
+    }
+
+    .button h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .pricing {
+        padding: 30px 0px;
+    }
+
+    .form {
+        top: 91%;
+    }
+
+}
+@media (max-width:390px) {
+    .button .btn_downloads {
+        margin-left: 5px;
+        margin-top: 0px;
+    }
+}
+@media (max-width:375px) {
+    .height {
+        min-height: 60vh;
+    }
+
+    .lg_phone {
+        display: none;
+    }
+
+    .height h5 {
+        font-size: 15px;
+    }
+
+    .height h1 {
+        font-size: 30px;
+    }
+
+    .height p {
+        font-size: 15px;
+    }
+
+    .height .btn_download {
+        font-size: 13px;
+    }
+
+    .height .btn_features {
+        margin-left: 0px;
+        font-size: 13px;
+    }
+
+    .feature_section {
+        margin-top: -45px;
+    }
+
+    .device_content h4 {
+        font-size: 15px;
+    }
+
+    .device_content h1 {
+        font-size: 25px;
+    }
+
+    .costomize_content h4 {
+        font-size: 15px;
+    }
+
+    .costomize_content h1 {
+        font-size: 25px;
+    }
+
+    .costomize_content h1 {
+        font-size: 25px;
+    }
+
+    .testimonials_client {
+        width: 82%;
+    }
+
+    .button h1 {
+        font-size: 30px;
+    }
+
+    .button .btn_downloads {
+        margin-left: 0px;
+        margin-top: 0px !important;
+    }
+
+    .form {
+        top: 91%;
+    }
+}
+
+@media (max-width:350px){
+    .button .btn_downloads {
+        margin-top: 10px !important;
+    }
+}
+@media (max-width:320px) {
+    .lg_phone {
+        display: none;
+    }
+
+    .height h5 {
+        font-size: 13px;
+    }
+
+    .height h1 {
+        font-size: 25px;
+    }
+
+    .height p {
+        font-size: 13px;
+    }
+
+    .height .btn_download {
+        padding: 8px 20px;
+        font-size: 13px;
+    }
+
+    .height .btn_features {
+        padding: 8px 20px;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .feature_section {
+        margin-top: -45px;
+    }
+
+    .device-content-icon ul li {
+        font-size: 17px;
+    }
+
+    .feature_section h4 {
+        font-size: 15px;
+    }
+
+    .feature_section h1 {
+        font-size: 25px;
+    }
+
+    .device_content h4 {
+        font-size: 15px;
+    }
+
+    .device_content h1 {
+        font-size: 25px;
+    }
+
+    .costomize_content h4 {
+        font-size: 15px;
+    }
+
+    .costomize_content h1 {
+        font-size: 25px;
+    }
+
+    .testimonial_part h5 {
+        font-size: 15px;
+    }
+
+    .testimonial_part h1 {
+        font-size: 35px;
+    }
+
+    .testimonials p {
+        font-size: 15px;
+    }
+
+    .testimonials_client {
+        width: 95%;
+    }
+
+    .button h1 {
+        font-size: 25px;
+    }
+
+    .button .btn_views {
+        padding: 8px 20px;
+        font-size: 15px;
+    }
+
+    .button .btn_downloads {
+        padding: 8px 20px;
+        font-size: 15px;
+        margin-left: 0px;
+        margin-top: 10px !important;
+    }
+
+    .form {
+        top: 93%;
+    }
+
+    .icon_control ul {
+        width: 50%;
+    }
+
+    .icon_control ul li {
+        margin-left: -28px;
+    }
+
+    .icon_control p {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+}
